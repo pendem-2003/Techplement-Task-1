@@ -16,7 +16,7 @@ let quotesCache = [];
 let currentQuoteIndex = 0;
 
 app.get('/', (req, res) => {
-  res.send('Hello, World!, I am Sai Sri Chand Chintakayala'); // Send a response back to the client
+  res.send('Hello Tech Gaint, I am Ganesh Pendem'); // Send a response back to the client
 });
 
 // Fetch quotes from ZenQuotes API and cache them locally
